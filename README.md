@@ -11,6 +11,6 @@ With this module, the 2 data files I got from the Bilibili video clips of each o
 Emoji_counter: I developed this module to know (a) how many kinds of different (Bilibili) emojis have the users used during the time and (b) how many times were each emoji used in the comments.
 This module uses the csv files produced by csv_processor in this project.
 
-Emoji_deleter: after discussing with Ms. Yuhan Li, a friend who has done similar studies, I decided to exclude all the emojis from the first manuscript because the ones used by Bilibili need to be assessed before they can be used in computer-assisted analysis of the comment texts. So I developed this module to get rid of the emojis for the sake of comment text analysis.
+Emoji_deleter: after discussing with Ms. Yuhan Li, a friend who has done similar studies, I decided to exclude all the emojis from the first manuscript because the ones used by Bilibili need to be carefully assessed by lots of people in a similar way like Godard and Holtzman (2022) (doi: 10.3389/fpsyg.2022.921388) before they can be used in computer-assisted analysis of the comment texts. So I developed this module to get rid of the emojis for the sake of comment text analysis.
 
 P.S.: Any Professor in communication or related fields, please consider Yuhan if she applies for your institution this fall as she is going to graduate from the master program of Tsinghua University. She is a very promising scholar and she is one of the winners of the EnvComm top student paper in ICA2022.
